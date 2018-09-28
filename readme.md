@@ -5,10 +5,7 @@
 
 ## Overview
 
-Simple starter C++ project with:
-
-- cmake
-- googletest
+To explore the valgrind tool to improve code quality during development and testing.
 
 ## Standard install via command-line
 ```
